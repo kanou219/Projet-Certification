@@ -7,8 +7,6 @@
     height:400px;
     text-align: center;
     margin:auto;
-    
-    
 
 }
 
@@ -83,6 +81,7 @@ header button{
 
 header button:hover {
     transform: scale(1.05);
+    
 }
 /* Fin du Header*/
 
