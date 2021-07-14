@@ -7,3 +7,12 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+li{
+    padding: 10px;
+}
+
+.main{ 
+    margin: 20px;
+
+}
